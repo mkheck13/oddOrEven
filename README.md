@@ -9,6 +9,6 @@ Features Data Validation and the ability to play again.
 
 ### Peer Review:  
 
-**Name**: 
+**Name**: Andrie Amor
 
-**Comments**: 
+**Comments**: Everythings good works perfect
